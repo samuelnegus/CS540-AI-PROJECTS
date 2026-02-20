@@ -66,18 +66,3 @@ The `predict_label` function predicts the top 3 most likely labels for a given t
 - Label names.
 - Probabilities (formatted to 2 decimal places).
 
----
-
-## How to Run
-
-### Prerequisites
-- Python 3.8+
-- PyTorch and related libraries.
-
-Install dependencies in a virtual environment:
-```bash
-python3 -m venv Pytorch
-source Pytorch/bin/activate
-pip install --upgrade pip
-pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 numpy==1.26.4
-
