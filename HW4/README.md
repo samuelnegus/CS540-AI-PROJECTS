@@ -53,17 +53,3 @@ The dataset (`countries.csv`) contains various statistics for multiple countries
 - **Output**: Normalized feature vectors where all values are scaled to the range [0, 1].
 
 ---
-
-## How to Run
-
-### Prerequisites
-- Python 3.x
-- Libraries:
-  - `numpy`
-  - `matplotlib`
-  - `csv`
-  - `scipy` (excluding `scipy.cluster.hierarchy.linkage`)
-
-Install the dependencies with:
-```bash
-pip install numpy matplotlib scipy
