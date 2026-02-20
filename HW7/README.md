@@ -72,21 +72,4 @@ The model was trained under the following configurations:
 | Configuration 5    | 64             | 0.001              | 20         |
 | Configuration 6    | 64             | 0.001              | 5          |
 
----
-
-## Setup Instructions
-
-### Prerequisites
-- **Python 3.8+**
-- **PyTorch**, **Torchvision**, **TQDM**
-
-### Environment Setup
-Follow these steps to set up your environment on the CSL server:
-
-1. Install Miniconda (if not already installed):
-   ```bash
-   wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
-   bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
-   source ~/miniconda3/bin/activate
-   conda init --all
 
