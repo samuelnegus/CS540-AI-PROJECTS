@@ -30,19 +30,3 @@ The program computes and prints:
 2. **Q2**: Log-probabilities for the first character (`A`).
 3. **Q3**: Log-scores (F values) for English and Spanish.
 4. **Q4**: Conditional probability of the letter being English.
-
-Example output format:
-```plaintext
-Q1
-A 0
-B 0
-...
-Z 0
-Q2
--0.0000
--0.0000
-Q3
--123.4567
--789.0123
-Q4
-0.9876
