@@ -1,4 +1,4 @@
-# HW2: Probabilistic Language Identification
+# Probabilistic Language Identification
 
 This project implements a probabilistic model to identify whether a shredded text letter was written in English or Spanish using character frequency analysis and Bayes' theorem.
 
