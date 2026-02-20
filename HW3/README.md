@@ -31,16 +31,3 @@ This project explores Principal Component Analysis (PCA) for dimensionality redu
 ### Visualization
 - Uses Matplotlib to display images with side-by-side comparisons (e.g., original vs. projection, perturbed, or hybrid images).
 - Colorbars enhance visual clarity.
-
-## How to Run the Code
-
-### Prerequisites
-- Python 3.x
-- Libraries:
-  - `numpy`
-  - `scipy >= 1.5.0`
-  - `matplotlib`
-
-Install the required libraries using:
-```bash
-pip install numpy scipy matplotlib
