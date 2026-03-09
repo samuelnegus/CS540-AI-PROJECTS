@@ -1,4 +1,4 @@
-# HW4: Hierarchical Agglomerative Clustering of Socioeconomic Data
+# Hierarchical Agglomerative Clustering of Socioeconomic Data
 
 This project performs **Hierarchical Agglomerative Clustering (HAC)** to group countries based on socioeconomic statistics, allowing visualization of similarities between countries. The clustering is implemented from scratch, avoiding the use of `scipy.cluster.hierarchy.linkage`.
 
