@@ -1,4 +1,4 @@
-# HW6: Introduction to PyTorch
+# PyTorch Neural Network Development for Wardrobe Classification
 
 This project introduces the PyTorch framework for deep learning by implementing, training, and evaluating a neural network to classify images from the Fashion-MNIST dataset.
 
