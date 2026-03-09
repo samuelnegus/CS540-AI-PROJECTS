@@ -1,20 +1,6 @@
-# HW9: Teeko AI Game Player
+# Minimax Algorithm with Heuristics - Teeko AI Player
 
 This project implements an AI game player for **Teeko**, a 5x5 board game where two players take turns placing and moving markers with the goal of achieving four in a row or a 2x2 box. The AI is developed using a **Minimax algorithm** with heuristics to evaluate game states.
-
----
-
-## Table of Contents
-- [Game Rules](#game-rules)
-- [Features](#features)
-- [Installation and Execution](#installation-and-execution)
-- [How It Works](#how-it-works)
-  - [Phases](#phases)
-  - [Algorithm](#algorithm)
-- [Usage](#usage)
-- [Example Gameplay](#example-gameplay)
-- [Files](#files)
-- [Extra Credit](#extra-credit)
 
 ---
 
