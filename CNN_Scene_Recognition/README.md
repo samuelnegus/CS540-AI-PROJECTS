@@ -1,4 +1,4 @@
-# HW7: Implementing LeNet-5 and Training on MiniPlaces Dataset
+# Develop CNN with LeNet-5 Architecture using Pytorch - Classify Scenes in MiniPlaces dataset
 
 This project involves implementing and training LeNet-5, a convolutional neural network (CNN), on the MiniPlaces scene recognition dataset. Additionally, the project explores the impact of different hyperparameter configurations on training performance.
 
