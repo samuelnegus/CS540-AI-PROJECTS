@@ -1,4 +1,4 @@
-# HW3: Principal Component Analysis (PCA) and Image Manipulation
+# Principal Component Analysis (PCA) and Image Manipulation
 
 This project explores Principal Component Analysis (PCA) for dimensionality reduction and visualization, using the Label Faces in the Wild dataset. The goal is to implement PCA-related functions, manipulate image projections, and create visually meaningful results.
 
